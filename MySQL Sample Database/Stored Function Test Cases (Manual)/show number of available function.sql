@@ -1,0 +1,1 @@
+show function status where db = 'classicmodels';
