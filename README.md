@@ -1,4 +1,4 @@
-### Manual_and_Automated_Database_Testing
+### Manual and Automated Database Testing
 #### Project 1: MySQL Sample Database Testing
 - Database: mysqlsampledatabase.sql
   - View The [Schema_info](https://docs.google.com/spreadsheets/d/1X8PLqLPTqZCpvFSeBbDp9Sk28aVE-o12/edit?usp=sharing&ouid=110212694347163662297&rtpof=true&sd=true) TestCases
